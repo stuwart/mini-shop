@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "SearchInPut":"../../components/SearchInPut/SearchInPut"
+  },
+  "navigationBarTitleText": "商品"
+
+}
